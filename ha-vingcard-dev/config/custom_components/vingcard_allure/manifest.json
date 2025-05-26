@@ -1,0 +1,10 @@
+{
+    "domain": "vingcard_allure",
+    "name": "Vingcard Allure",
+    "version": "1.0.0",
+    "documentation": "https://example.com",
+    "requirements": [],
+    "codeowners": [],
+    "dependencies": [],
+    "config_flow": false
+  }

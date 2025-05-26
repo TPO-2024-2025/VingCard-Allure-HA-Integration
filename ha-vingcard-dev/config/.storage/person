@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "id": "nik_cof",
+        "name": "Nik Cof",
+        "user_id": "28a55a2e6aff4f74a1f680c773ba398c",
+        "device_trackers": []
+      },
+      {
+        "id": "nik_cof_3",
+        "name": "Nik Cof",
+        "user_id": "99a96d31afd5468aa9cb62770a60a110",
+        "device_trackers": [
+          "device_tracker.m2012k11ag"
+        ]
+      },
+      {
+        "id": "jakob",
+        "name": "Jakob",
+        "device_trackers": [
+          "device_tracker.m2012k11ag"
+        ],
+        "user_id": "10aea2072d184009aeeb68a4594e86f4",
+        "picture": null
+      },
+      {
+        "id": "jan",
+        "name": "Jan",
+        "device_trackers": [],
+        "user_id": "0d381a8fc52f498785a2be0c785f7a1f",
+        "picture": null
+      },
+      {
+        "id": "vito",
+        "name": "Vito",
+        "device_trackers": [],
+        "user_id": "95dfd18ec37a452397e1a3e2f6ed8a1e",
+        "picture": null
+      }
+    ]
+  }
+}

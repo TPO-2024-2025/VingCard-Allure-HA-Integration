@@ -1,0 +1,11 @@
+services:
+  homeassistant:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ha-vingcard
+    ports:
+      - "8123:8123"
+    volumes:
+      - ./config:/config
+    restart: unless-stopped

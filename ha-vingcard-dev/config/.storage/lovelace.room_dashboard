@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace.room_dashboard",
+  "data": {
+    "config": {
+      "views": [
+        {
+          "title": "Home",
+          "sections": [
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading_style": "title",
+                  "heading": "Room Status"
+                },
+                {
+                  "type": "entities",
+                  "entities": [
+                    {
+                      "entity": "sensor.101"
+                    },
+                    {
+                      "entity": "sensor.102"
+                    },
+                    {
+                      "entity": "sensor.103"
+                    },
+                    {
+                      "entity": "sensor.104"
+                    },
+                    {
+                      "entity": "sensor.105"
+                    },
+                    {
+                      "entity": "sensor.106"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

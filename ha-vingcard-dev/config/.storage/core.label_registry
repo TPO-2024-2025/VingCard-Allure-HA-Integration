@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "minor_version": 2,
+  "key": "core.label_registry",
+  "data": {
+    "labels": [
+      {
+        "color": null,
+        "description": null,
+        "icon": "mdi:bed",
+        "label_id": "101",
+        "name": "101",
+        "created_at": "2025-05-04T05:08:50.900783+00:00",
+        "modified_at": "2025-05-04T05:08:50.900882+00:00"
+      },
+      {
+        "color": null,
+        "description": null,
+        "icon": "mdi:bed",
+        "label_id": "106",
+        "name": "106",
+        "created_at": "2025-05-22T11:25:56.970221+00:00",
+        "modified_at": "2025-05-22T11:25:56.970226+00:00"
+      }
+    ]
+  }
+}

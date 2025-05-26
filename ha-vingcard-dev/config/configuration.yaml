@@ -1,0 +1,9 @@
+default_config:
+sensor:
+  - platform: vingcard_allure
+notify:
+  - name: ALL_DEVICES
+    platform: group
+    services:
+      - action: mobile_app_m2012k11ag
+automation: !include automations.yaml

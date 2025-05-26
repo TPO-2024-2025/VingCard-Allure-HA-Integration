@@ -1,0 +1,20 @@
+- id: '1746382372618'
+  alias: Notification automation
+  description: Sends notification to mobile devices when the state of the room changes.
+  triggers:
+  - trigger: state
+    entity_id:
+    - sensor.101
+    - sensor.102
+    - sensor.103
+    - sensor.104
+    - sensor.105
+    attribute: state
+  conditions: []
+  actions:
+  - action: notify.all_devices
+    metadata: {}
+    data:
+      title: Room {{ trigger.to_state.name }}
+      message: '{{trigger.from_state.state}} ---> {{trigger.to_state.state}}'
+  mode: single

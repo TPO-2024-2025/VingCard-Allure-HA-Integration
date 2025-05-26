@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {"entity_id":"person.nik_cof","state":"unknown","attributes":{"editable":true,"id":"nik_cof","device_trackers":[],"user_id":"28a55a2e6aff4f74a1f680c773ba398c","friendly_name":"Nik Cof"},"last_changed":"2025-05-26T01:53:24.639086+00:00","last_reported":"2025-05-26T01:53:27.017159+00:00","last_updated":"2025-05-26T01:53:27.017159+00:00","context":{"id":"01JW54PXF9BFNYPZXBJ8NCEM71","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    },
+    {
+      "state": {"entity_id":"person.nik_cof_3","state":"unknown","attributes":{"editable":true,"id":"nik_cof_3","device_trackers":["device_tracker.m2012k11ag"],"user_id":"99a96d31afd5468aa9cb62770a60a110","friendly_name":"Nik Cof"},"last_changed":"2025-05-26T01:53:24.639263+00:00","last_reported":"2025-05-26T01:53:27.017233+00:00","last_updated":"2025-05-26T01:53:27.017233+00:00","context":{"id":"01JW54PXF9E6KN5FE4XAWZCZJ8","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    },
+    {
+      "state": {"entity_id":"person.jakob","state":"unknown","attributes":{"editable":true,"id":"jakob","device_trackers":["device_tracker.m2012k11ag"],"user_id":"10aea2072d184009aeeb68a4594e86f4","friendly_name":"Jakob"},"last_changed":"2025-05-26T01:53:24.639393+00:00","last_reported":"2025-05-26T01:53:27.017278+00:00","last_updated":"2025-05-26T01:53:27.017278+00:00","context":{"id":"01JW54PXF99GD4JPC6SVK869HK","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    },
+    {
+      "state": {"entity_id":"person.jan","state":"unknown","attributes":{"editable":true,"id":"jan","device_trackers":[],"user_id":"0d381a8fc52f498785a2be0c785f7a1f","friendly_name":"Jan"},"last_changed":"2025-05-26T01:53:24.639515+00:00","last_reported":"2025-05-26T01:53:27.017305+00:00","last_updated":"2025-05-26T01:53:27.017305+00:00","context":{"id":"01JW54PXF9M61213G3SGGJV53H","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    },
+    {
+      "state": {"entity_id":"person.vito","state":"unknown","attributes":{"editable":true,"id":"vito","device_trackers":[],"user_id":"95dfd18ec37a452397e1a3e2f6ed8a1e","friendly_name":"Vito"},"last_changed":"2025-05-26T01:53:24.639654+00:00","last_reported":"2025-05-26T01:53:27.017330+00:00","last_updated":"2025-05-26T01:53:27.017330+00:00","context":{"id":"01JW54PXF91W3HMRP4VS77ZNPC","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    },
+    {
+      "state": {"entity_id":"stt.home_assistant_cloud","state":"unknown","attributes":{"friendly_name":"Home Assistant Cloud"},"last_changed":"2025-05-26T01:53:26.172337+00:00","last_reported":"2025-05-26T01:53:26.172337+00:00","last_updated":"2025-05-26T01:53:26.172337+00:00","context":{"id":"01JW54PWMWKE39V61VTC8HKTSB","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    },
+    {
+      "state": {"entity_id":"tts.home_assistant_cloud","state":"unknown","attributes":{"friendly_name":"Home Assistant Cloud"},"last_changed":"2025-05-26T01:53:26.172657+00:00","last_reported":"2025-05-26T01:53:26.172657+00:00","last_updated":"2025-05-26T01:53:26.172657+00:00","context":{"id":"01JW54PWMWF8WX4JJVVXBWZA09","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    },
+    {
+      "state": {"entity_id":"conversation.home_assistant","state":"unknown","attributes":{"friendly_name":"Home Assistant","supported_features":1},"last_changed":"2025-05-26T01:53:26.360374+00:00","last_reported":"2025-05-26T01:53:26.360374+00:00","last_updated":"2025-05-26T01:53:26.360374+00:00","context":{"id":"01JW54PWTRS0PN4ND25RZ0C8VA","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    },
+    {
+      "state": {"entity_id":"tts.google_translate_en_com","state":"unknown","attributes":{"friendly_name":"Google Translate en com"},"last_changed":"2025-05-26T01:53:26.863505+00:00","last_reported":"2025-05-26T01:53:26.863505+00:00","last_updated":"2025-05-26T01:53:26.863505+00:00","context":{"id":"01JW54PXAFJC5YNCHGT7DXGXT9","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    },
+    {
+      "state": {"entity_id":"automation.notification_automation","state":"on","attributes":{"id":"1746382372618","last_triggered":"2025-05-22T12:33:37.654596+00:00","mode":"single","current":0,"friendly_name":"Notification automation"},"last_changed":"2025-05-26T01:53:26.868542+00:00","last_reported":"2025-05-26T01:53:26.868542+00:00","last_updated":"2025-05-26T01:53:26.868542+00:00","context":{"id":"01JW54PXAMWX02GADAT8CN2M7D","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    },
+    {
+      "state": {"entity_id":"device_tracker.m2012k11ag","state":"unknown","attributes":{"source_type":"gps","friendly_name":"M2012K11AG"},"last_changed":"2025-05-26T01:53:26.955021+00:00","last_reported":"2025-05-26T01:53:26.955021+00:00","last_updated":"2025-05-26T01:53:26.955021+00:00","context":{"id":"01JW54PXDB4420ZKSC5D22KBGD","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.m2012k11ag_battery_level","state":"63","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","icon":"mdi:battery-60","friendly_name":"M2012K11AG Battery level"},"last_changed":"2025-05-26T01:53:26.955550+00:00","last_reported":"2025-05-26T01:53:26.955550+00:00","last_updated":"2025-05-26T01:53:26.955550+00:00","context":{"id":"01JW54PXDBWJWXH44WKBS72QB6","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": 63,
+        "native_unit_of_measurement": "%"
+      },
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.m2012k11ag_battery_state","state":"discharging","attributes":{"options":["charging","discharging","full","not_charging"],"device_class":"enum","icon":"mdi:battery-minus","friendly_name":"M2012K11AG Battery state"},"last_changed":"2025-05-26T01:53:26.955705+00:00","last_reported":"2025-05-26T01:53:26.955705+00:00","last_updated":"2025-05-26T01:53:26.955705+00:00","context":{"id":"01JW54PXDBRHV6A0MYYMPGSVKC","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "discharging",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.m2012k11ag_charger_type","state":"none","attributes":{"options":["ac","usb","wireless","dock","none"],"device_class":"enum","icon":"mdi:battery","friendly_name":"M2012K11AG Charger type"},"last_changed":"2025-05-26T01:53:26.955832+00:00","last_reported":"2025-05-26T01:53:26.955832+00:00","last_updated":"2025-05-26T01:53:26.955832+00:00","context":{"id":"01JW54PXDBJR8Q39Q0KV8JBHW1","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "none",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2025-05-26T02:08:26.963024+00:00"
+    }
+  ]
+}

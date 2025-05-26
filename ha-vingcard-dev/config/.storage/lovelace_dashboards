@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace_dashboards",
+  "data": {
+    "items": [
+      {
+        "id": "room_dashboard",
+        "show_in_sidebar": true,
+        "icon": "mdi:door-closed",
+        "title": "Room Overview",
+        "require_admin": false,
+        "mode": "storage",
+        "url_path": "room-dashboard"
+      }
+    ]
+  }
+}
